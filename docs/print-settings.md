@@ -156,6 +156,8 @@ First, look at what kind of lines you have:
 
 ## 7. Temperatures by filament
 
+![Nozzle temperature ranges by filament](images/temperature-ranges.svg)
+
 Creality's Ender-3 V3 SE material guide:
 
 | Filament | Nozzle °C | Bed °C | Fan | Retraction | Print speed | Enclosure | Dry box |
@@ -196,6 +198,8 @@ max speed (mm/s)        = MVS ÷ (layer height × line width)
 
 ## 9. Cooling
 
+![Droopy overhang versus clean overhang](images/overhang-cooling.svg)
+
 - **PLA:** 100 % fan after the first 2–3 layers; minimum layer time 6–8 s for small parts.
 - **PETG:** 30–60 %; more for overhangs and bridges only.
 - **TPU:** 50–100 %.
@@ -204,6 +208,8 @@ max speed (mm/s)        = MVS ÷ (layer height × line width)
   critical overhangs towards the fan duct.
 
 ## 10. Retraction and stringing
+
+![Retraction test: choose the shortest length with no strings](images/retraction-test.svg)
 
 | Filament | Creality | Typical tuned range |
 |---|---|---|

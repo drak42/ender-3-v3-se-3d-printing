@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="350" viewBox="0 0 760 350" font-family="Helvetica, Arial, sans-serif">
+<defs><marker id="a" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#555"/></marker></defs><rect width="760" height="350" fill="#ffffff"/>
+<text x="380" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#222">Overhangs and cooling</text>
+<rect x="60" y="160" width="100" height="90" fill="#e07b39"/>
+<path d="M160,160 L210,162 Q260,172 285,200 L275,206 Q245,190 160,250 z" fill="#e07b39"/>
+<path d="M210,176 q4,10 0,18" stroke="#b85a22" fill="none"/>
+<path d="M228,182 q4,10 0,18" stroke="#b85a22" fill="none"/>
+<path d="M246,188 q4,10 0,18" stroke="#b85a22" fill="none"/>
+<path d="M264,194 q4,10 0,18" stroke="#b85a22" fill="none"/>
+<rect x="420" y="160" width="100" height="90" fill="#e07b39"/>
+<polygon points="520,160 650,160 650,175 520,250" fill="#e07b39"/>
+<text x="165" y="280" text-anchor="middle" font-size="15" fill="#c0392b" font-weight="bold">Droopy, curled overhang</text>
+<text x="165" y="300" text-anchor="middle" font-size="14" fill="#222">too hot, too little fan or too fast</text>
+<text x="525" y="280" text-anchor="middle" font-size="15" fill="#1a7a4a" font-weight="bold">Clean overhang</text>
+<text x="525" y="300" text-anchor="middle" font-size="14" fill="#222">enough cooling, slower overhang speed</text>
+<rect x="610" y="70" width="40" height="40" rx="6" fill="#555"/>
+<text x="630" y="64" text-anchor="middle" font-size="12" fill="#222">part fan</text>
+<path d="M605,95 Q560,120 545,150" stroke="#3a7bd5" stroke-width="3" fill="none" marker-end="url(#a)"/>
+<text x="380" y="335" text-anchor="middle" font-size="14" fill="#444">The SE's part fan blows from one side: face critical overhangs towards it.</text>
+</svg>

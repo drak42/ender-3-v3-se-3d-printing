@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="360" viewBox="0 0 760 360" font-family="Helvetica, Arial, sans-serif">
+<defs><marker id="a" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#555"/></marker></defs><rect width="760" height="360" fill="#ffffff"/>
+<text x="380" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#222">Bed-slinger: why orientation and acceleration matter</text>
+<rect x="80" y="170" width="260" height="20" fill="#555"/>
+<line x1="120" y1="230" x2="300" y2="230" stroke="#555" stroke-width="2" marker-end="url(#a)"/>
+<line x1="300" y1="230" x2="120" y2="230" stroke="#555" stroke-width="2" marker-end="url(#a)"/>
+<text x="210" y="252" text-anchor="middle" font-size="13" fill="#222">bed moves in Y (front–back)</text>
+<rect x="190" y="70" width="40" height="100" fill="#e07b39"/>
+<text x="210" y="60" text-anchor="middle" font-size="13" fill="#222">tall part</text>
+<path d="M240,90 q10,-6 20,0 t20,0" stroke="#c0392b" fill="none" stroke-width="2"/>
+<text x="210" y="290" text-anchor="middle" font-size="14" fill="#c0392b" font-weight="bold">Heavy moving bed shakes tall parts</text>
+<text x="210" y="310" text-anchor="middle" font-size="13" fill="#222">and shows ringing in Y first</text>
+<rect x="440" y="80" width="260" height="140" fill="#eee" stroke="#999"/>
+<text x="570" y="72" text-anchor="middle" font-size="13" fill="#222">top view of the bed</text>
+<rect x="470" y="135" width="200" height="30" fill="#e07b39"/>
+<line x1="470" y1="240" x2="670" y2="240" stroke="#555" stroke-width="2" marker-end="url(#a)"/>
+<text x="570" y="258" text-anchor="middle" font-size="13" fill="#222" font-weight="bold">X</text>
+<line x1="710" y1="220" x2="710" y2="90" stroke="#555" stroke-width="2" marker-end="url(#a)"/>
+<text x="725" y="160" text-anchor="middle" font-size="13" fill="#222" font-weight="bold">Y</text>
+<text x="570" y="290" text-anchor="middle" font-size="14" fill="#1a7a4a" font-weight="bold">Run long, thin parts along X</text>
+<text x="570" y="310" text-anchor="middle" font-size="13" fill="#222">and keep Y acceleration moderate</text>
+<text x="380" y="345" text-anchor="middle" font-size="14" fill="#444">A heavy, solid base under the printer reduces this more than most mods.</text>
+</svg>

@@ -73,6 +73,8 @@ that no setting fixes. Dry PETG and TPU every time; PLA if it's been out for wee
 
 ## 4. A solid base
 
+![Bed-slinger: tall parts shake in Y; run long parts along X](images/bed-slinger.svg)
+
 **Impact: medium–high · Cost: low · Difficulty: easy**
 
 The SE moves its bed in Y, so the whole printer rocks. A heavy slab (paving stone, worktop offcut)

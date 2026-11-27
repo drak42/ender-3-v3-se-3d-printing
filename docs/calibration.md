@@ -77,6 +77,8 @@ Always read current values first with `M503` and write them down.
 
 ## 4. E-steps
 
+![Calibrating e-steps: mark 120 mm, extrude 100 mm, measure what's left](images/e-steps.svg)
+
 E-steps tell the extruder how far to push filament. Get this right before flow.
 
 1. Heat the nozzle to printing temperature.
@@ -129,6 +131,8 @@ automatically with a **load sensor** in the nozzle assembly.
 
 ## 7. Temperature
 
+![Reading a temperature tower: too hot at the top, too cold at the bottom, best floor in between](images/temperature-tower.svg)
+
 **Tool:** Orca → Calibration → Temperature tower (also in Creality Print's Calibration menu).
 
 **What works**
@@ -174,6 +178,8 @@ What to do instead:
 
 ## 10. Max volumetric speed
 
+![Max volumetric speed test: set the limit 10–20 % below where walls turn rough](images/max-flow-test.svg)
+
 **Tool:** Orca → Calibration → Max flowrate.
 
 **What works**
@@ -186,6 +192,8 @@ What to do instead:
 - For quality printing MVS rarely limits you — the outer wall is far slower.
 
 ## 11. Retraction
+
+![Retraction test: choose the shortest length with no strings](images/retraction-test.svg)
 
 **Tool:** Orca → Calibration → Retraction test.
 
@@ -200,6 +208,8 @@ What to do instead:
 
 ## 12. Ringing and input shaping
 
+![Bed-slinger: tall parts shake in Y; run long parts along X](images/bed-slinger.svg)
+
 **On stock firmware: no input shaping.**
 
 What works instead:
@@ -210,6 +220,10 @@ What works instead:
   (community firmware).
 
 ## 13. Cooling, dimensions and tolerances
+
+![Droopy overhang versus clean overhang](images/overhang-cooling.svg)
+
+![Elephant's foot and undersized holes, and how to compensate](images/dimensional-accuracy.svg)
 
 - **Overhang/bridge tests** to set fan and overhang speeds; the side-mounted fan cools one side
   better — orient overhangs towards it.
