@@ -7,3 +7,5 @@ Print and OrcaSlicer.
   temperatures, speeds and acceleration, cooling and retraction.
 - [Calibration: What Works and What Doesn't](docs/calibration.md) — e-steps, PID, Z offset and
   per-filament tests, and what the stock Marlin firmware can't do.
+- [Suggested Modifications](docs/modifications.md) — upgrades worth doing (firmware, PEI plate,
+  dry storage, base, cooling), what to skip, and what to recalibrate afterwards.

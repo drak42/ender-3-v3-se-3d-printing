@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="460" viewBox="0 0 760 460" font-family="Helvetica, Arial, sans-serif">
+  <rect width="760" height="460" fill="#ffffff"/>
+  <text x="380" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#222">Ender-3 V3 SE modifications: impact vs effort</text>
+  <rect x="80" y="50" width="320" height="170" fill="#e3f4e8"/><rect x="400" y="50" width="320" height="170" fill="#fff6d6"/>
+  <rect x="80" y="220" width="320" height="170" fill="#f2f2f2"/><rect x="400" y="220" width="320" height="170" fill="#f9e3e3"/>
+  <g font-size="13" font-weight="bold" fill="#888">
+    <text x="90" y="68">DO FIRST</text><text x="710" y="68" text-anchor="end">WORTH IT IF YOU NEED IT</text>
+    <text x="90" y="382">NICE TO HAVE</text><text x="710" y="382" text-anchor="end">USUALLY SKIP</text>
+  </g>
+  <text x="400" y="418" text-anchor="middle" font-size="14" fill="#444">Effort / cost →</text>
+  <text x="40" y="220" text-anchor="middle" font-size="14" fill="#444" transform="rotate(-90 40 220)">Impact on quality →</text>
+  <g font-size="13" text-anchor="middle">
+    <circle cx="150" cy="110" r="6" fill="#e07b39"/><text x="150" y="100">PEI plate</text>
+    <circle cx="250" cy="135" r="6" fill="#e07b39"/><text x="250" y="125">Dry box / dryer</text>
+    <circle cx="165" cy="185" r="6" fill="#e07b39"/><text x="165" y="175">Solid base</text>
+    <circle cx="460" cy="100" r="6" fill="#e07b39"/><text x="460" y="90">Firmware: LA + input shaping</text>
+    <circle cx="520" cy="160" r="6" fill="#e07b39"/><text x="520" y="150">Part cooling (5015)</text>
+    <circle cx="330" cy="200" r="6" fill="#e07b39"/><text x="330" y="190">Bed spacers</text>
+    <circle cx="160" cy="290" r="6" fill="#e07b39"/><text x="160" y="280">LED lighting</text>
+    <circle cx="270" cy="320" r="6" fill="#e07b39"/><text x="270" y="310">Spool holder / reverse Bowden</text>
+    <circle cx="340" cy="260" r="6" fill="#e07b39"/><text x="340" y="250">Camera</text>
+    <circle cx="480" cy="280" r="6" fill="#e07b39"/><text x="480" y="270">Enclosure (PLA/PETG)</text>
+    <circle cx="600" cy="330" r="6" fill="#e07b39"/><text x="600" y="320">Old-model upgrade kits</text>
+    <circle cx="590" cy="260" r="6" fill="#e07b39"/><text x="590" y="250">Heavy toolhead add-ons</text>
+  </g>
+  <text x="380" y="446" text-anchor="middle" font-size="12" fill="#777">Rough placement from community experience — your needs decide the order.</text>
+</svg>

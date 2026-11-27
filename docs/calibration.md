@@ -9,6 +9,8 @@ advance, input shaping) **don't work on stock firmware** — this guide says whe
 
 Settings that build on these results: [Print Settings](print-settings.md).
 
+Modified your printer? See [what to recalibrate after each mod](modifications.md#what-to-recalibrate-after-each-mod).
+
 ![Calibration order: printer first, then per filament](images/calibration-order.svg)
 
 ## Contents
@@ -230,6 +232,8 @@ Community Marlin builds for the SE (for example the navaismo Ender-3V3-SE projec
 - It isn't supported by Creality; keep a copy of the stock firmware to go back.
 - After flashing: re-run e-steps, PID, levelling and Z offset; then add linear advance to the
   per-filament calibration.
+- More options, including Klipper via the Sonic Pad, Nebula Pad or a Raspberry Pi, are in
+  [Suggested Modifications](modifications.md#1-firmware-linear-advance-and-input-shaping).
 
 ## 15. Summary: what works on the stock SE
 
